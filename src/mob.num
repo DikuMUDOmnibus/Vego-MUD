@@ -1,0 +1,482 @@
+#23: The shadow assassin of Mr. Audran 
+#30: Mr. Audran 
+#200: the acolyte of Frag 
+#201: the blob 
+#202: the monster 
+#203: the wimpy monster 
+#204: the aggressive monster 
+#205: the wimpy and aggressive monster 
+#206: the big creature 
+#207: the adept of Kahn 
+#208: the adept of Hatchet 
+#209: the rabbit 
+#210: the lizard 
+#211: the boar 
+#212: the fox 
+#213: the snail 
+#214: the beast 
+#215: the bear 
+#216: the wolf 
+#217: the adept of Frag 
+#218: the adept of Furey 
+#219: the priest of Hatchet 
+#250: the birthday mercling 
+#300: Aruncus the Druid 
+#301: Sorbus the Hermit 
+#302: street merchant 
+#303: the citizen 
+#304: the citizen 
+#305: Shudde-M'ell 
+#306: Luxan 
+#307: Matty 
+#308: the Innkeeper 
+#350: the pet dragon 
+#1000: A fairy dragon 
+#1001: A griffon 
+#1002: an arasai 
+#1203: The executioner 
+#1205: the salesman 
+#1206: the pond scum 
+#1208: a large Bengal Tiger 
+#1300: A shadow guardian 
+#1301: A lost adventurer 
+#1302: Edgar 
+#1303: The golem 
+#1304: A mage 
+#1305: Strick the bartender 
+#1306: Tatorious 
+#1307: Ezmerelda 
+#1308: The cook's assistant 
+#1309: The prisoner 
+#1310: The Jailor 
+#1311: A broom 
+#1312: A pair of disembodied hands 
+#1313: A pair of disembodied eyes 
+#1314: The mage 
+#1315: A young apprentice magic user 
+#1316: A young apprentice 
+#1317: A young apprentice 
+#1318: A young apprentice 
+#1319: A small kitten 
+#1320: A student 
+#1321: An intructor of magic 
+#1322: A student of spells 
+#1323: A spell teacher 
+#1324: A student of spells 
+#1325: A wizard 
+#1326: A young mage 
+#1327: The battle mistress 
+#1328: A spell teacher 
+#1329: An aged wizard 
+#1330: A scribe 
+#1331: A scribe 
+#1332: The master scribe 
+#1333: The scribe's assistant 
+#1334: The Enchanter 
+#1335: A dancing sword 
+#1336: The Mad Alchemist 
+#1337: The master summoner 
+#1338: The master charmer 
+#1339: A wooden golem 
+#1340: The master spell binder 
+#1341: The golem maker 
+#1342: A granite golem 
+#1343: A bronze golem 
+#1344: A flesh golem 
+#1345: A cloth golem 
+#1346: An adamantite golem 
+#1347: A clay golem 
+#1348: The master of illusions 
+#1349: The Necromancer 
+#1350: An animated skeleton 
+#1351: An undead giant 
+#1352: An ugly witch 
+#1353: The Librarian 
+#1354: The master's apprentice 
+#1355: A grey cat 
+#1356: The master of Neutrality 
+#1357: A black robed apprentice 
+#1358: A black cat 
+#1359: The master of the black robes 
+#1360: A white robed apprentice 
+#1361: A white cat 
+#1362: The master of goodness 
+#1363: A chalico cat 
+#1364: The Grand Master 
+#1365: A wizard 
+#2001: a bat 
+#2002: a templar page 
+#2003: a spelunker 
+#2004: a graverobber 
+#2005: some mist 
+#2006: It 
+#2007: a skeleton 
+#2008: a templar 
+#2009: a mysterious wraith 
+#2010: the templar officer 
+#2011: zombie 
+#2012: The Shadow 
+#2013: The vampire 
+#2014: The evil necromancer 
+#2015: the grand templar 
+#2016: the prism dragon 
+#2017: The DarkenBeast 
+#2101: A gang member 
+#2102: A gang member 
+#2103: The gang leader 
+#2104: A bruiser 
+#2105: A doll 
+#2106: A patrolman 
+#2107: A vandal 
+#2108: A pitbull 
+#2825: the guardian beast 
+#2826: the young troll 
+#2827: the medium troll 
+#2828: a baby troll 
+#2829: the giant troll 
+#2830: the large female troll 
+#2831: a fat worm 
+#2832: the roving beast 
+#2833: the medium troll 
+#3000: the Wizard 
+#3001: the Baker 
+#3002: the Grocer 
+#3003: the Weaponsmith 
+#3004: the Armourer 
+#3005: the Receptionist 
+#3006: the Captain 
+#3007: the Sailor 
+#3008: the Pet Shop Boy 
+#3009: the Jeweller 
+#3010: the Leather Worker 
+#3020: the Guildmaster 
+#3021: the Guildmaster 
+#3022: the Guildmaster 
+#3023: the Guildmaster 
+#3024: the Sorcerer 
+#3025: the Knight Templar 
+#3026: the Assassin 
+#3027: the Knight 
+#3040: the Bartender 
+#3041: the Waiter 
+#3042: the Waiter 
+#3043: the Waiter 
+#3044: the Waiter 
+#3045: the Waiter 
+#3046: Filthy 
+#3059: the Elite Red Guard 
+#3060: the Cityguard 
+#3061: the Janitor 
+#3062: the Beastly Fido 
+#3063: the vagabond 
+#3064: the Drunk 
+#3065: the Beggar 
+#3066: the Odif Yltsaeb 
+#3067: the Cityguard 
+#3068: the horrid green gelatinous blob 
+#3069: the funny jester 
+#3070: the Elite Black Mage 
+#3090: the Kitten 
+#3091: the Puppy 
+#3092: the Beagle 
+#3093: the Rottweiler 
+#3094: the Wolf 
+#3100: the Maid 
+#3120: the Sexton 
+#3121: the Swan 
+#3122: the Duckling 
+#3123: the Sparrow 
+#3124: the Duck 
+#3140: the Captain 
+#3141: the Cityguard 
+#3142: the Secretary 
+#3143: the Mayor 
+#3144: the Town Crier 
+#3300: the cat 
+#3400: the bony skeleton 
+#3401: The undead zombie 
+#3402: The ghoul 
+#3403: The wraith 
+#3404: The guardian vampire 
+#3405: The priest 
+#3406: The Mi-Go 
+#3407: The nightgaunt 
+#3408: The hunting horror 
+#3409: Some cave weeds spring up out of the ground and 
+#3410: Snapper Joe 
+#3411: The X'ist flesh eater 
+#3412: The spirit of King Crotus 
+#3413: The rock slug 
+#3414: The mad etcher 
+#3415: The specteral etchers wife 
+#3416: The half-decomposed body 
+#3500: The wyvern 
+#3501: The goblin 
+#3600: Henry the Gardener 
+#3601: the rotting corpse 
+#3602: the ghastly ghoul 
+#3603: a dusty skeleton 
+#3604: a dusty skeleton 
+#3605: the rotting corpse 
+#4000: the snake 
+#4001: the green snake 
+#4002: the centipede 
+#4003: the kobold 
+#4004: the orc 
+#4005: the orc 
+#4050: the warrior 
+#4051: the warrior 
+#4052: the hobgoblin 
+#4053: the snake 
+#4054: the centipede 
+#4055: the hobgoblin 
+#4056: the orc 
+#4057: the mountain lion 
+#4058: the hill giant 
+#4060: Tawny the cougar 
+#4061: the Maenad 
+#4100: the Mage 
+#4101: the troll 
+#4102: the snake 
+#4103: the Thief 
+#4104: the orc 
+#4105: a centipede 
+#4106: the Warrior 
+#4107: the kobold 
+#4150: the blue bat 
+#4151: the red bat 
+#4152: the green bat 
+#4153: the white bat 
+#4154: the black bat 
+#4155: the thief 
+#4156: the troll 
+#4157: the Mage 
+#4158: the snake 
+#4159: the small troll 
+#4160: the orc 
+#4700: The small dwarf 
+#4701: The small dwarf 
+#4702: The dwarf guard 
+#4703: Yentle the dwarf 
+#4704: Juargan the Dwarven King 
+#4705: The duergar dwarf 
+#4706: Grimdale the ancient king 
+#4707: The dreaded rock worm 
+#4708: A dwarven spirit 
+#5000: The dervish 
+#5001: The dervish 
+#5002: The coral snake 
+#5003: The small scorpion 
+#5004: The giant, purple sand worm 
+#5005: The brass dragon 
+#5006: The nomad leader 
+#5007: The nomad commander 
+#5008: The nomad warrior 
+#5009: The slave 
+#5010: The dracolich 
+#5011: The drider 
+#5012: The dark dwarf 
+#5013: The myconoid 
+#5014: The myconoid shaman 
+#5015: The dustdigger 
+#5017: The rabid camel 
+#5100: The goblin slave 
+#5101: The Drow commoner 
+#5102: The drow warrior noble 
+#5103: The drow mage noble 
+#5104: The drow priestess 
+#5105: The drow master 
+#5106: The weaponsmaster 
+#5107: The Matron Mother 
+#5108: The Matron Mother 
+#5109: The yochlol 
+#5110: the drow guard 
+#5111: the drow scout 
+#5200: The mighty beholder 
+#5201: The lamia 
+#5202: The mimic 
+#5203: The mimic 
+#5204: The mimic 
+#5205: The mimic 
+#5206: The mimic 
+#5207: The horned lizard 
+#5208: The stone golem 
+#5300: the dervish 
+#5301: some green slime 
+#5302: a hungry jackel 
+#5303: the statue 
+#5304: the dervish priest 
+#5305: the water weird 
+#5306: a living statue 
+#5307: the dervish highpriest 
+#5309: the glabrezu demon 
+#5350: the cambion 
+#5351: the cambion 
+#5352: the cambion 
+#5353: the shade 
+#5375: your shadow 
+#5376: a shadow mastiff 
+#5377: the shadow dragon 
+#5390: Lord Marak 
+#5391: Darkanian Shadowstar 
+#6000: John the Lumberjack 
+#6001: the cute rabbit 
+#6002: the brown bear 
+#6003: the ferocious rabbit 
+#6004: the fallow deer 
+#6005: the brown fox 
+#6100: the vicious warg 
+#6101: the ferocious warg 
+#6102: the large, grey wolf 
+#6103: the large, black wolf 
+#6110: the huge, ancient tree 
+#6111: the huge, ancient tree 
+#6112: the huge, green dragon 
+#6113: the huge, poisonous spider 
+#6114: the Queen Spider 
+#6115: Shargugh 
+#6116: the Elder Druid 
+#6301: the young spider 
+#6302: Yevaud 
+#6303: the Wolf Spider 
+#6304: the orc 
+#6305: the Queen Wasp 
+#6306: the drone spider 
+#6307: the ethereal spider 
+#6308: the slave of Arachnos 
+#6309: the quasit 
+#6310: the Bird Spider 
+#6311: the Hermit 
+#6312: the Donjonkeeper 
+#6313: The guardian 
+#6314: Arachnos 
+#6315: the Ki-Rin 
+#6316: the young dragon wormkin 
+#6317: the medium dragon wormkin 
+#6500: dwarf guard 
+#6501: dwarf worker 
+#6502: a wraith 
+#6503: the Hide & Tooth storekeeper 
+#6504: Granite Head the baker 
+#6505: The giant lizard 
+#6506: The giant 
+#6507: A dwarven mineworker 
+#6508: A dwarven mine leader 
+#6509: the dwarven doctor 
+#6510: the dwarven peon 
+#6511: the dwarf 
+#6512: the unwanted son 
+#6513: the unwanted daughter 
+#6514: the barrack's guard 
+#6515: the man in waiting 
+#6516: the mazekeeper 
+#6517: the giant snake 
+#6520: Quintic the dealer 
+#6521: Johnny the lemonade stand man 
+#6530: the monkey 
+#6531: the giraffe 
+#6532: the goat 
+#6533: the pelican 
+#6534: the horse 
+#6535: the chicken 
+#6536: the platypus 
+#6537: the kangaroo 
+#6538: the worm 
+#6539: the armadillo 
+#6540: the sloth 
+#6541: the skunk 
+#6542: the leopard 
+#6543: the lion 
+#6544: the bear 
+#6545: the elephant 
+#6900: the computer bug 
+#6910: Isha the Dark Elf 
+#6999: Death 
+#7000: The horrifying Mudmonster 
+#7001: The small bat 
+#7002: The Great Sewer Rat 
+#7003: The small Spider 
+#7004: The giant earth beetle 
+#7005: The maggot 
+#7006: The slithering snake 
+#7007: The evil wanderer 
+#7008: the creature homonculus 
+#7009: The Grand Knight of Paladins 
+#7010: the evil chr-eff'n 
+#7011: the shadowy Morkoth 
+#7012: Madam Esther 
+#7013: The horrifying Mudmonster 
+#7040: The red dragon 
+#7041: The sea hag 
+#7042: The guardian naga 
+#7043: The scaled basilisk 
+#7044: The lemure 
+#7045: Jones 'cruncher' the ettin 
+#7046: Herald 'the mouse-killer' ettin 
+#7200: The master mindflayer 
+#7201: The senior mindflayer 
+#7202: The junior mindflayer 
+#7203: The ugly wererat 
+#7204: The gigantic rat 
+#8000: the Shredder 
+#8001: the bug 
+#8003: the Daemon 
+#8005: the cursor 
+#8006: the Juggernaut 
+#8008: the butterfly 
+#8010: the cowboy 
+#8900: The Hierophant 
+#9101: The screaming, filthy harpy 
+#9102: The screaming harpy leader 
+#9103: The ghostly air elemental 
+#9104: The mysterious effreeti 
+#9105: The gigantic roc 
+#9106: The gigantic roc 
+#9107: the ugly, wicked witch 
+#9200: The crocodile 
+#9201: The Giant Crocodile 
+#9202: The Aucan Canoe Artisan 
+#9203: The Aucan Villager 
+#9204: The Aucan Child 
+#9205: The Aucan Mother 
+#9206: The Aucan Village Guard 
+#9207: The Aucan Village Guard 
+#9208: The Aucan Medicine Man 
+#9209: The Giant Sloth 
+#9210: The Master Aucan Warrior 
+#9211: The Young Aucan Warrior 
+#9212: An Aucan Warrior 
+#9213: An Aucan Warrior 
+#9214: The Aucan Elder 
+#9215: The Aucan Baker 
+#9216: The Aucan Craftsman 
+#9217: The Chieftain Guard 
+#9218: The Tribal Diplomat 
+#9219: The Aucan Chieftain 
+#9220: The Belly Dancer 
+#9221: The Aucan Weaponsmith 
+#9222: The Aucan Child's Ghost 
+#9223: The Aucan Ghost 
+#9224: The Ghost of Tjowi 
+#9225: The Ghost of Bawji 
+#9226: The Ghost of Adjitu 
+#9227: The Ghost of Racikol 
+#9228: The Ghost of Owgi 
+#9229: The Skeleton 
+#9230: The Ghost of the Ancient Chieftain 
+#9231: The Rat 
+#9232: The Monkey 
+#9233: The Tree Snake 
+#9234: The Wart Hog 
+#9235: The Puma 
+#9236: The Tiger 
+#9237: The Water Moccasin 
+#9238: The Aucan Warrior 
+#9239: The Aucan General 
+#9240: The gazelle 
+#9500: Buffalo 
+#10000: the White Griffon Patrol Guard 
+#10001: a White Griffon Patrol Guard 
+#10002: an Elite Griffon Patrol Guard 
+#10005: an ancient black dragon 
+#20000: $ 

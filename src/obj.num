@@ -1,0 +1,673 @@
+#0: trash 
+#99: a bulletin board 
+#200: a VEGO sub issue sword  
+#201: a VEGO sub issue dagger 
+#202: a VEGO sub issue mace 
+#203: a VEGO sub issue vest 
+#204: a VEGO sub issue shield 
+#205: a VEGO sub issue cloak 
+#206: a VEGO sub issue helmet 
+#207: a pair of VEGO sub issue leggings 
+#208: a pair of VEGO sub issue boots 
+#209: a pair of VEGO sub issue gloves 
+#210: a pair of VEGO sub issue sleeves 
+#211: a VEGO sub issue cape 
+#212: a VEGO sub issue belt 
+#213: a VEGO sub issue bracer 
+#214: a key 
+#215: a Mud School Diploma 
+#216: the MERCENARY War Banner 
+#217: a pedestal 
+#264: a VEGO Guard signet ring 
+#265: the MERCENARY War Banner 
+#300: a small dusk of timian herbs 
+#301: a small dusk of black gyvel 
+#302: a small dusk of poison ivy 
+#303: a dark red jar 
+#304: wild flowers 
+#305: a waterskin 
+#306: a beef jerkey 
+#307: a strange amulet 
+#308: a druish staff 
+#309: a rabbit roast 
+#310: name template 
+#311: a clear potion 
+#312: a scroll titled 'jhyfrdow' 
+#900: A Pair of Torn Purple Pants 
+#901: The Consequense Sufferor 
+#1200: a white lily 
+#1201: a purple iris 
+#1202: a dogwood flower wreath 
+#1203: a purple amethyst ring 
+#1204: a gold chainmail shirt 
+#1205: a pair of gold bracers 
+#1206: a gold chainmail skirt 
+#1207: a purple silk sash 
+#1305: A large chunk of meat 
+#1208: a white gold rose clasp 
+#1209: a white gold ankh 
+#1210: a pair of gold winged black leather boots 
+#1211: a golden rose shield 
+#1212: a dark purple silk cloak 
+#1212: a dark purple silk cloak 
+#1213: a gold friendship bracelet from Benedict 
+#1214: a pair of gold trimmed black silk gloves 
+#1215: a gold warhammer 
+#1216: a Box of Presents 
+#1300: A fountain 
+#1301: An oven 
+#1302: A meat locker 
+#1303: A spice rack 
+#1304: A slice of pizza 
+#1305: A large chunk of meat 
+#1306: A finger sandwich 
+#1307: A straw broom 
+#1308: A coffee machine 
+#1309: A cabinet 
+#1310: A bar of silver 
+#1311: A bar of gold 
+#1312: A bar of mithril 
+#1313: A bar of adamantite 
+#1314: a mithril hammer 
+#1315: A chest 
+#1316: a small key 
+#1317: a long sword 
+#1318: a silver dagger 
+#1319: a curved scimitar 
+#1320: a wooden staff 
+#1321: a silver chased cabinet 
+#1322: a silver chased cabinet 
+#1323: an old key 
+#1324: a silvery key 
+#1325: a silvery key 
+#1326: a red and white staff 
+#1327: a burnt staff 
+#1328: a black rod 
+#1329: a wooden stick 
+#1330: a metal wand 
+#1331: a black cauldrin 
+#1332: a small pair of bat wings 
+#1333: an eyeball 
+#1334: the book of magic 
+#1335: a pair of spectacles 
+#1336: a golden altar 
+#1337: a heart shaped medallion 
+#1338: a large chest 
+#1339: an intricately carved key 
+#1340: a pile of coins is here 
+#1341: a brown cloak 
+#1342: a chameleon poncho 
+#1343: a pair of old boots 
+#1344: a seashell ring 
+#1345: a leather backpack 
+#1351: a herbal brew 
+#1352: a waybread 
+#1353: a parchment 
+#1354: a feather quill 
+#1355: a meat cleaver 
+#1356: some chain shackles 
+#1357: a silvery dagger 
+#1358: a golden feather quill 
+#1359: a scroll 
+#1360: a bound scroll 
+#1361: a long cylindrical tube 
+#1362: an old scroll 
+#1363: a scroll written on blue paper 
+#1364: a leather pouch 
+#1365: a silver stirring spoon 
+#1366: a blue potion 
+#1367: a bright red potion 
+#1368: a green potion 
+#1369: an efervecent potion 
+#1370: a milky white potion 
+#1371: a black staff 
+#1372: a golden flute 
+#1373: a small figurine 
+#1374: a holstered belt 
+#1375: a blackened wand 
+#1376: a runed chisel 
+#1377: a beltpouch 
+#1378: some sparkling dust 
+#1379: a dark cowl 
+#1380: an ashen wand 
+#1381: a huge spiked club 
+#1382: a grey robe 
+#1383: a long grey cloak 
+#1384: a glinting silver bracelet 
+#1385: an iron shod staff 
+#1386: a ward minor 
+#1387: a black robe 
+#1388: an onyx bracelet 
+#1389: a dark black cloak 
+#1390: a sharp shard of obsidian 
+#1391: a white robe 
+#1392: a white gold bracelet 
+#1393: a white cloak 
+#1394: an ivory hilted dagger 
+#1395: a spiked collar 
+#1396: a shimmering cloak of many colors 
+#1397: a small emerald ring 
+#1398: an emerald bracelet 
+#1399: a ward major 
+#1400: the ebony kris 
+#1401: a tight fitting green dragon scale shirt 
+#1402: a fridge 
+#1403: a bottle of absolute vodka 
+#1404: a bottle of cranberry juice 
+#1405: The Sword of the Kings 
+#2001: a glowing key 
+#2002: a suit of granite platemail 
+#2003: an oynx ring 
+#2004: the neutralizer 
+#2005: The sword Excalibur 
+#2006: A kingly crown 
+#2007: stone 
+#2008: a flask of holy water 
+#2009: a suit of chainmail 
+#2010: a white cape 
+#2011: the shield of defense 
+#2012: a dragonscale shield 
+#2013: a prism wand 
+#2014: a shadow cloak 
+#2015: a misty potion 
+#2016: a templar's sword 
+#2101: an Ogre gang jacket 
+#2102: a Troll gang jacket 
+#2103: a hefty length of chain 
+#2104: A metal shield 
+#2105: A spraypaint can 
+#2106: a stiletto 
+#2110: A patrol club 
+#2111: a troll signet ring 
+#2112: brass knuckles 
+#2850: the cadaver-toy 
+#2851: the heap of carnage 
+#2852: the troll skin 
+#2853: an opal ring 
+#2854: a leather belt 
+#2855: a cracked bone 
+#3000: a barrel 
+#3001: a bottle 
+#3002: a bottle 
+#3003: a firebreather 
+#3004: a bottle 
+#3009: a big pot pie 
+#3010: a bread 
+#3011: a danish pastry 
+#3012: a mexican taco 
+#3013: a spicy hot burrito 
+#3014: some nachos with cheese 
+#3020: a dagger 
+#3021: a small sword 
+#3022: a long sword 
+#3023: a wooden club 
+#3024: a warhammer 
+#3025: a flail 
+#3030: a torch 
+#3031: a lantern 
+#3032: a bag 
+#3034: a paper note 
+#3035: a goose-feather quill 
+#3040: a scroll of identify 
+#3041: a yellow potion of see invisible 
+#3042: a scroll of recall 
+#3043: a wand of invisibility 
+#3044: a staff of sleep 
+#3045: a scale mail jacket 
+#3046: a bronze breast plate 
+#3050: a raft 
+#3051: a canoe 
+#3052: a scroll of recall 
+#3053: a wand of invisibility 
+#3054: a staff of sleep 
+#3055: a small golden talisman 
+#3060: a leather jerkin 
+#3061: a leather cap 
+#3062: a pair of leather pants 
+#3063: a pair of leather boots 
+#3064: a pair of leather gloves 
+#3065: a pair of leather sleeves 
+#3066: a studded leather jerkin 
+#3067: a hard leather cap 
+#3068: a pair of studded leather pants 
+#3069: a pair of hard leather boots 
+#3070: a pair of hard leather gloves 
+#3071: a pair of studded leather sleeves 
+#3072: a scale mail jerkin 
+#3073: a scale mail coif 
+#3074: a long scale mail skirt 
+#3075: a pair of reinforced boots 
+#3076: a pair of reinforced gloves 
+#3077: a pair of scale mail sleeves 
+#3078: a chain mail jerkin 
+#3079: a chain mail coif 
+#3080: a long chain mail skirt 
+#3081: a pair of ironbound boots 
+#3082: a pair of ironbound gloves 
+#3083: a pair of chain mail sleeves 
+#3084: a bronze breast plate 
+#3085: a bronze helmet 
+#3086: a pair of bronze leggings 
+#3087: a pair of bronze boots 
+#3088: a pair of bronze gauntlets 
+#3089: a pair of bronze bracers 
+#3090: an iron breast plate 
+#3091: an iron helmet 
+#3092: a pair of iron leggings 
+#3093: a pair of iron boots 
+#3094: a pair of iron gauntlets 
+#3095: a pair of iron bracers 
+#3096: a small wooden shield 
+#3097: a small metal shield 
+#3098: a large metal shield 
+#3099: a bulletin board 
+#3100: a cup 
+#3101: a cup 
+#3102: a cup 
+#3104: a mailbox 
+#3105: a bronze bracer 
+#3106: an iron bracer 
+#3120: a key 
+#3121: a key 
+#3122: a key 
+#3123: a key 
+#3129: a pair of hand cuffs 
+#3130: the desk 
+#3131: the safe 
+#3132: the gold 
+#3133: the City Key 
+#3134: the Bench 
+#3135: a fountain 
+#3136: a small pile of gold coins 
+#3137: a steel key 
+#3138: a buffalo waterskin 
+#3140: the bank's notice of liquidation 
+#3300: a metal key 
+#3301: a brass key 
+#3302: a metal key 
+#3303: a large chest 
+#3304: Manxam's heavy mace 
+#3305: Manxam's brass breast plate 
+#3306: Manxam's brass leggings 
+#3307: a mithril key 
+#3308: a Coke machine 
+#3309: a can of Coke 
+#3310: an iron key 
+#3311: the pit 
+#3312: a gold dragonscale shirt 
+#3313: a gold dragon's heads helm 
+#3314: golden dragonscale sleeves 
+#3315: a gold scaled cloak 
+#3316: a gold dragonscle shield 
+#3317: Gauntlets of Erratic Destruction 
+#3318: gold dragonscale leggings 
+#3319: a Coke machine 
+#3320: a can of Coke 
+#3321: an iron key 
+#3322: a Coke machine 
+#3323: a can of Coke 
+#3400: a candlestick 
+#3401: oops 
+#3402: a nightgaunt's tickler 
+#3403: disgusting pinkish plasma webbing 
+#3410: a queerly shaped rod 
+#3411: a large black dirty key 
+#3412: the mummified head of Jubal the Benevolent 
+#3413: a black marble ring 
+#3414: a whisper thin rapier 
+#3415: a stone sarcophagus 
+#3416: a heavy iron key 
+#3417: a wineflask 
+#3418: a mound of coins fit for a dead king 
+#3419: key to the coffin 
+#3420: a hidden conpartment in the room 
+#3421: a rusty curved scimitar 
+#3422: a piece of slime 
+#3423: An artists smock 
+#3424: a tightly rolled scroll 
+#3425: An auburn-colored orb 
+#3426: A bar of gold 
+#3427: a dark black cape 
+#3428: a pitch-black longsword that flames brightly... 
+#3429: a worn and dented breast plate 
+#3430: a silver key 
+#3600: a candlestick 
+#3601: a brandy bottle 
+#3602: a brandy bottle 
+#3603: a wheelbarrow 
+#3604: a shovel 
+#3605: a rake 
+#3610: a dusty skeleton 
+#3611: a amethyst 
+#3612: a silver pendant 
+#3613: a silver dagger 
+#4000: a yellow and green ring 
+#4001: a corpse 
+#4002: some coins 
+#4050: a purple potion 
+#4051: a metal helmet 
+#4052: a mushroom 
+#4053: a thieves dirk 
+#4100: a black demon blade. 
+#4101: a swordmans gloves 
+#4102: a scroll which reads "ysafg" 
+#4103: a green slime mold 
+#4104: a green slime mold 
+#4150: a black potion 
+#4151: a heavy oak staff 
+#4152: a light silver dagger 
+#4700: a small key 
+#4701: a mining pick 
+#4702: a dwarven helm 
+#4703: a dwarven breast plate 
+#4704: a large dwarven shield 
+#4705: a large pile of coins 
+#4706: a large dwarven battle axe 
+#4707: a large stone sarcophagus 
+#4708: the staff of ruling 
+#5000: A small mining pick 
+#5001: A glowing suit of banded mail 
+#5002: the halberd 
+#5003: the amulet 
+#5005: A large leg bone 
+#5006: a small cactus cup 
+#5007: a small wicker basket 
+#5008: a small wicker basket 
+#5009: a small wicker basket 
+#5010: a small wicker basket 
+#5011: a coil of rope 
+#5012: a bunch of stakes 
+#5013: an old, tattered map 
+#5014: a thick padded turban 
+#5015: a great pile of treasure 
+#5016: a long, curved sabre 
+#5017: a curved scimitar 
+#5018: a long, pointed cutlass 
+#5019: a pink potion 
+#5020: a platinum wand 
+#5021: a strange bow 
+#5022: An encrypted scroll 
+#5023: an iron bound chest 
+#5024: a golden key 
+#5025: a copper bracelet 
+#5026: A large ruby 
+#5027: A glittering diamond 
+#5028: A brilliant sapphire 
+#5029: a deep blue lapis lazuli 
+#5030: the Tiger Jewel 
+#5031: the red-eyed jewel 
+#5032: a fiery green emerald 
+#5050: a shimmering blue cloak 
+#5051: an M-16 assualt rifle 
+#5100: A commoner's longsword 
+#5101: A noble's longsword 
+#5102: A snake headed whip 
+#5103: A snake headed whip 
+#5104: A snake headed whip 
+#5105: A black longsword 
+#5106: A snake headed whip 
+#5107: A snake headed whip 
+#5108: A pair of bracers 
+#5109: A pair of gauntlets 
+#5110: A silvery blue wand 
+#5111: A small helmet 
+#5112: A small ruby ring 
+#5113: A spider shaped dagger 
+#5114: A small bright green hat 
+#5200: A ringmail vest 
+#5201: A mithril helm 
+#5202: A pair of mithril gauntlets 
+#5203: Some mithril sleeves 
+#5204: A pair of mithril boots 
+#5205: A set of mithril leggings 
+#5206: An mithril girth 
+#5207: A battered iron breast plate 
+#5208: A sturdy iron shield 
+#5209: A large black shield 
+#5210: A black potion 
+#5211: An orange potion 
+#5213: A green serpentine staff 
+#5214: A smooth quartz ball 
+#5215: A tattered scroll 
+#5216: A bound scroll 
+#5217: A silver flute 
+#5218: A demon-faced talisman 
+#5219: A chunk of venison 
+#5220: a large cracked fountain 
+#5221: A two-handed sword 
+#5222: A black silk robe 
+#5223: A dark green cloak 
+#5224: An engraved ebony seal 
+#5225: the desk 
+#5226: An engraved ivory seal 
+#5227: the glass cabinet 
+#5228: A rotten arm 
+#5230: A pale blue stone 
+#5231: A scarlet and blue stone 
+#5232: A incandescent blue stone 
+#5233: A deep red stone 
+#5234: A pink stone 
+#5235: A pearly white stone 
+#5236: A pale lavander stone 
+#5237: A lavander and green stone 
+#5238: A dusty rose stone 
+#5239: A dull grey stone 
+#5240: A vibrant purple stone 
+#5241: A pink and green stone 
+#5242: A pale green stone 
+#5243: A clear stone 
+#5244: An iridescent stone 
+#5250: A mandolin 
+#5251: A golden harp 
+#5252: a long slim dagger 
+#6000: a lumber axe 
+#6001: a chequered shirt 
+#6002: a pair of leather boots 
+#6003: a fireplace 
+#6004: a hooded brass lantern 
+#6005: a wooden chest 
+#6006: a small brass key 
+#6007: a heap of gold coins 
+#6010: some blackberries 
+#6011: a mushroom 
+#6012: a large sign 
+#6013: the barrel 
+#6101: a sign 
+#6102: a colossal tree 
+#6103: a long, grey branch 
+#6104: a long, grey branch 
+#6105: a long, grey branch 
+#6106: a toadstool 
+#6107: a toadstool 
+#6108: a big pile of gold coins 
+#6109: a blue potion 
+#6110: a yellow potion 
+#6111: a large round shield 
+#6112: an iron crown 
+#6113: an iron sceptre 
+#6114: an iron ring 
+#6155: the morning star 
+#6302: a wizard's hat 
+#6303: a pontiff's headress 
+#6304: a black knight's visor 
+#6502: a deep green key 
+#6504: a hammer 
+#6505: dwarven plate mail 
+#6507: long, black stick 
+#6508: dwarven club 
+#6509: a two-handed dwarven axe 
+#6510: A dwarven helmet 
+#6511: a dwarven golden ring 
+#6512: Dwarven gloves 
+#6513: a note 
+#6514: a castle key 
+#6515: a pair of magic boots 
+#6516: a mine key 
+#6517: a chunk of coal 
+#6518: a mining pick 
+#6519: a box of birth control pills 
+#6520: a poster 
+#6521: a bottle 
+#6522: a barrel 
+#6523: a cookie 
+#6524: a wand of fireballs 
+#6525: the Demonspawned armor 
+#6526: a stick 
+#6527: a zoo sign 
+#6550: a red and blue key 
+#6551: an old, wooden trapdoor 
+#6900: Quifael's global optimizer 
+#6901: the Olympian blade 
+#6902: Dionysos' Staff of Wonders 
+#6910: a black dragon scale shirt 
+#6911: a black dragon scale skirt 
+#6912: a black, hooded cloak 
+#6913: a broad silver belt 
+#6914: a long, slender sword 
+#6950: a coffee machine 
+#6951: a coffee cup 
+#6999: the Scythe of Death 
+#7090: a waybread 
+#7190: a glinting ring of silver 
+#7191: a golden ring 
+#7192: The Ring of Lordly Protection 
+#7193: a silver ring of combat 
+#7194: a skull-faced ring 
+#7200: the devil rod 
+#7201: the large mace 
+#7202: the small mace 
+#7203: a purple cloak 
+#7204: an neon blue potion 
+#7205: a black key 
+#7206: a strange white skull 
+#7207: a pair of muddy gauntlets 
+#7208: a small stick 
+#7209: a pair of muddy boots 
+#7210: a huge treasure 
+#7211: a short sword 
+#7212: a huge bastard sword 
+#7213: a large helmet 
+#7214: a chaos helmet 
+#7215: a light sabre 
+#7216: a two-handed sword 
+#7217: a silvery breast plate 
+#7218: some leg plates 
+#7219: a pair of gloves 
+#7220: a silvery helmet 
+#7221: the shield of the rose 
+#7222: a pair of heavy plated boots 
+#7223: some arm plates 
+#7224: a white cloak 
+#7298: a huge treasure 
+#7299: a short sword 
+#7300: a backpack 
+#7301: a large beltpouch 
+#7302: a scrollcase 
+#7304: a full armor torso plate 
+#7305: plated tassets 
+#7306: a pair of gauntlets 
+#7307: a steel helmet 
+#7308: the metal shield 
+#7309: a pair of heavily plated greaves 
+#7310: steel arm guards 
+#7900: a large key 
+#7901: a copper key 
+#7909: a huge treasure 
+#7910: a wooden chest 
+#7911: a small brass key 
+#8001: a blue key 
+#8002: a red key 
+#8100: a small strip of aluminum 
+#8101: a dirty dish 
+#8102: a chunk of glass 
+#8113: a bone 
+#8120: a blueish whip 
+#8121: a leather satchel 
+#8301: a cabinet 
+#8302: a small cylinder 
+#8303: a spanner 
+#8401: a closet 
+#8402: a spice jar 
+#8403: some black powder 
+#8404: some small yellow kernels 
+#8499: a crumpled wad of paper 
+#8502: a chunk of glass 
+#8520: a blueish whip 
+#8900: the sign 
+#8901: the poster 
+#8910: a Warrior's Trident 
+#9101: a pair of winged boots 
+#9102: a pair of carved bronze bracers 
+#9103: an ornate brooch 
+#9104: magenta potion 
+#9105: an ancient illustrated parchment 
+#9201: key to healing ground 
+#9202: key-shaped bone 
+#9203: key to the Chieftain's armory 
+#9204: odd-looking metal slither 
+#9205: crocodile jawbone 
+#9206: pair of crocodile skin sleeves 
+#9207: pair of crocodile skin leggings 
+#9208: crocodile skin cape 
+#9209: Aucan spear 
+#9210: claw of a large sloth 
+#9211: ancient Aucan tribal sword 
+#9212: small Aucan sabre 
+#9213: great Aucan spear 
+#9214: Aucan tribal helmet 
+#9215: pair of Aucan tribal gloves 
+#9216: Aucan tribal shield 
+#9217: Aucan tribal belt 
+#9218: piece of paper 
+#9219: pen 
+#9220: diamond ring 
+#9221: golden plate mail 
+#9222: Aucan Chieftain's Tribal cape 
+#9223: magical demijohn 
+#9224: the Aucan Chieftain's Tribal blade 
+#9225: silk veil 
+#9226: femur club 
+#9227: ghostly scroll 
+#9228: strange, bone-shaped wand 
+#9229: sacred Aucan wand 
+#9230: pile of bones 
+#9231: Aucan battle axe 
+#9232: Aucan war spear 
+#9233: strange-looking staff 
+#9234: dangerous staff 
+#9235: coffin 
+#9236: A large pile of gold 
+#9237: pqowie 
+#9238: long sword 
+#9239: a pair of bronze leggings 
+#9250: canoe 
+#9251: dinghy 
+#9252: battered raft 
+#9253: Aucan long boat 
+#9254: middleblue potion 
+#9255: green potion of remove poison 
+#9256: scroll of recall 
+#9257: staff of sleep 
+#9259: Aucan bread 
+#9260: Aucan hotcake 
+#9261: Aucan roll 
+#9262: Aucan quiche 
+#9263: pack of Aucan crackers 
+#9264: large torch 
+#9265: demijohn 
+#9266: woven basket 
+#9267: earthen vessel 
+#9268: scroll of identify 
+#9269: shiny breast plate 
+#9270: shiny leggings 
+#9271: shiny helmet 
+#9272: shiny sleeves 
+#9273: bamboo spear 
+#9274: small wooden club 
+#9275: shiny sword 
+#9276: blunt hammer 
+#9277: combat net 
+#9501: A Wedding Ring 
+#9502: A Pair of Torn Purple Pants 
+#9503: An Engagement Ring 
+#19999: $ 
